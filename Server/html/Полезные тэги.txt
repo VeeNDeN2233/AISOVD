@@ -1,0 +1,5 @@
+opasity 0.75 - регулирование прозрачности в css
+transition: opasity 0.1s - плавность
+overflow: hidden - скрывать всё, что торчит из блока
+   background-size: cover; - подгонка фона
+    margin: 0 auto; - выровнять элемент в центр по горизонтали, на элемент

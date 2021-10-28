@@ -1,0 +1,4 @@
+2021/10/26 17:02:03 [emerg] 7824#2188: unknown "exa13412" variable
+2021/10/26 17:23:53 [emerg] 7336#5696: unknown "exa3176" variable
+2021/10/26 17:24:36 [emerg] 4076#3404: CreateFile() "C:\Users\belen\OneDrive\Рабочий стол\nginx-1.21.3/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/10/26 17:25:36 [error] 10084#2484: *1 CreateFile() "C:\nginx-1.21.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
